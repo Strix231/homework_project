@@ -1,4 +1,4 @@
-TOKEN = '6125433303:AAHF7B-YEKmpouqSIYpAoCgI4ZuFVBHhCVY'
+TOKEN = 'my token'
 
 keys = {
     'dollar': 'USD',
